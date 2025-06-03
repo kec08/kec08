@@ -41,8 +41,6 @@
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=swift" />
-      <img src="https://skillicons.dev/icons?i=swiftui" />
-      <img src="https://skillicons.dev/icons?i=watchos" />
       <img src="https://skillicons.dev/icons?i=firebase" />
     </td>
     <td>
@@ -59,8 +57,9 @@
 
 ## ⚡ Github Stats
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=eunchan-dev&theme=calm&count_private=true&hide_border=true&line_height=20)</a>  
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchan-dev&layout=compact&theme=calm&count_private=true&hide_border=true)</a>
+![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunchan-dev&theme=highcontrast&show_icons=true&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchan-dev&layout=compact&theme=highcontrast&count_private=true&hide_border=true)
+
 
 ---
 
