@@ -3,7 +3,7 @@
 
 ---
 
-## ⚪ 김은찬 [eunchan-dev]
+## 김은찬 [eunchan-dev]
 
 "iOS Developer & UI/UX Designer"
 #### Swift와 SwiftUI 기반의 iOS 앱 개발을 공부하며, 직접 기획하고 구현한 앱을 통해 경험을 쌓고 있습니다.  
