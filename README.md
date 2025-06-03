@@ -57,7 +57,14 @@
 ## ⚡ Github Stats
 
 ![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kec08&theme=highcontrast&show_icons=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec08&layout=compact&theme=highcontrast&count_private=true&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kec08&theme=highcontrast&hide_border=true)
+
+
+---
+
+## ⚡ Baekjoon Solved rank
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kec4489)](https://solved.ac/kec4489/)
 
 ---
 
