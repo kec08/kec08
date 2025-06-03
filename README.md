@@ -57,7 +57,7 @@
 ## ⚡ Github Stats
 
 ![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kec08&theme=highcontrast&show_icons=true&count_private=true&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=kec08&theme=highcontrast&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec08&theme=highcontrast&count_private=true&hide_border=true&card_width=495)
 
 
 ---
