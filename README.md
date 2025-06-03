@@ -56,9 +56,13 @@
 
 ## ⚡ Github Stats
 
-![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kec08&theme=highcontrast&show_icons=true&count_private=true&hide_border=true&card_width=300&line_height=16)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec08&theme=highcontrast&count_private=true&hide_border=true&card_width=300&line_height=16)
+![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kec08&theme=highcontrast&show_icons=true&count_private=true&hide_border=true&card_width=495&line_height=20)
 
+---
+
+## ⚡ Most used language
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec08&theme=highcontrast&count_private=true&hide_border=true&card_width=495&line_height=20)
 
 ---
 
