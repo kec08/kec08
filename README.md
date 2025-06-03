@@ -22,7 +22,6 @@
   </tr>
   <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=xcode" />
       <img src="https://skillicons.dev/icons?i=swift" />
       <img src="https://skillicons.dev/icons?i=github" />
       <img src="https://skillicons.dev/icons?i=git" />
@@ -57,9 +56,8 @@
 
 ## ⚡ Github Stats
 
-![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunchan-dev&theme=highcontrast&show_icons=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchan-dev&layout=compact&theme=highcontrast&count_private=true&hide_border=true)
-
+![Eunchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kec08&theme=highcontrast&show_icons=true&count_private=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec08&layout=compact&theme=highcontrast&count_private=true&hide_border=true)
 
 ---
 
