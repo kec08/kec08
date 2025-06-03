@@ -60,13 +60,13 @@
 
 ---
 
-## ⚡ Most used language
+## 📖 Most used language
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec08&theme=highcontrast&count_private=true&hide_border=true&card_width=495&line_height=20)
 
 ---
 
-## ⚡ Baekjoon Solved rank
+## 🏆 Baekjoon Solved rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kec4489)](https://solved.ac/kec4489/)
 
@@ -78,7 +78,7 @@
 |------|------|------|------|
 | **Qiri** | watchOS 기반의 STT, assistive touch를 이용한 Ai 질문 앱 개발 | iOS/watchOS 개발 | 진행중 |
 | **messenger app** | SwiftUI 기반 메신저 앱 | iOS 개발, UI 설계 | 진행중 |
-| **Nike redesign** | UI/UX 개선 아이디어 아카이브 | UI 구현중 | 진행중 |
+| **Nike redesign** | UI/UX 개선 아이디어 아카이브 | UI 구현, UI 리서치 | 진행중 |
 
 ---
 
