@@ -3,8 +3,9 @@
 
 ---
 
-## 김은찬 "iOS Developer & UI/UX Designer"
+## 김은찬 [Kim-eunchan]
 
+"iOS Developer & UI/UX Designer"
 #### Swift와 SwiftUI 기반의 iOS 앱 개발과 UIUX를 공부하고 있습니다
 #### 그저 작동하는 앱이 아니라, 실용적인 앱을 만들기 위해 고민하고
 #### 앱이 사용자에게 의미 있는 경험이 되도록 하고싶은 iOS 개발자 김은찬입니다.
