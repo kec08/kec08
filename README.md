@@ -6,8 +6,7 @@
 ## 김은찬 [eunchan-dev]
 
 "iOS Developer & UI/UX Designer"
-#### Swift와 SwiftUI 기반의 iOS 앱 개발을 공부하며, 직접 기획하고 구현한 앱을 통해 경험을 쌓고 있습니다.  
-#### 디자인과 UX에 대한 깊은 관심으로, 피그마를 활용한 UI 설계에도 힘쓰고 있으며  
+#### Swift와 SwiftUI 기반의 iOS 앱 개발과 UIUX를 공부하고 있습니다
 #### 그저 작동하는 앱이 아니라, 실용적인 앱을 만들기 위해 고민하고
 #### 앱이 사용자에게 의미 있는 경험이 되도록 하고싶은 iOS 개발자 김은찬입니다.
 
@@ -72,14 +71,5 @@
 
 ---
 
-## 📗 Projects
-
-| 이름 | 설명 | 역할 | 진행도 |
-|------|------|------|------|
-| **Qiri** | watchOS 기반의 STT, assistive touch를 이용한 Ai 질문 앱 개발 | iOS/watchOS 개발 | 진행중 |
-| **messenger app** | SwiftUI 기반 메신저 앱 | iOS 개발, UI 설계 | 진행중 |
-| **Nike redesign** | UI/UX 개선 아이디어 아카이브 | UI 구현, UI 리서치 | 진행중 |
-
----
 
 </div>
