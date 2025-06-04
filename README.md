@@ -27,6 +27,8 @@
     </td>
     <td>
       <img src="https://skillicons.dev/icons?i=figma" />
+      <img src="https://skillicons.dev/icons?i=ps" />
+      <img src="https://skillicons.dev/icons?i=ai" />
       <img src="https://skillicons.dev/icons?i=js" />
       <img src="https://skillicons.dev/icons?i=react" />
     </td>
