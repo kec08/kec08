@@ -23,7 +23,6 @@
     <td>
       <img src="https://skillicons.dev/icons?i=swift" />
       <img src="https://skillicons.dev/icons?i=github" />
-      <img src="https://skillicons.dev/icons?i=git" />
       <img src="https://skillicons.dev/icons?i=vscode" />
     </td>
     <td>
