@@ -18,32 +18,19 @@
     <td><strong>UI/UX 및 프론트엔드</strong></td>
   </tr>
   <tr>
-    <td>
       <img src="https://skillicons.dev/icons?i=swift" />
       <img src="https://skillicons.dev/icons?i=github" />
       <img src="https://skillicons.dev/icons?i=vscode" />
-    </td>
-    <td>
       <img src="https://skillicons.dev/icons?i=figma" />
       <img src="https://skillicons.dev/icons?i=ps" />
       <img src="https://skillicons.dev/icons?i=ai" />
       <img src="https://skillicons.dev/icons?i=js" />
       <img src="https://skillicons.dev/icons?i=react" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>iOS 개발 기술</strong></td>
-    <td><strong>관심 분야</strong></td>
   </tr>
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=swift" />
       <img src="https://skillicons.dev/icons?i=firebase" />
-    </td>
-    <td>
-      iOS 앱 구조 설계<br/>
-      사용자 경험(UX) 설계<br/>
-      접근성과 인터랙션 디자인<br/>
     </td>
   </tr>
 </table>
