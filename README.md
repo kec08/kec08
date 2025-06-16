@@ -40,5 +40,5 @@
 
 ---
 
-![snake animation](https://kec08.github.io/kec08/github-contribution-grid-snake-dark.svg)
+<!-- ![snake animation](https://kec08.github.io/kec08/github-contribution-grid-snake-dark.svg) -->
 </div>
