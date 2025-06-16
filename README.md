@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Skills
+## Skills
 
 <table>
   <tr>
@@ -34,7 +34,7 @@
 
 ---
 
-## 🏆 Baekjoon Solved rank
+## Baekjoon Solved rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kec4489)](https://solved.ac/kec4489/)
 
