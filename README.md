@@ -14,11 +14,8 @@
 
 <table>
   <tr>
-    <td><strong>개발 환경 및 도구</strong></td>
-    <td><strong>UI/UX 및 프론트엔드</strong></td>
-  </tr>
-  <tr>
       <img src="https://skillicons.dev/icons?i=swift" />
+    <img src="https://skillicons.dev/icons?i=firebase" />
       <img src="https://skillicons.dev/icons?i=github" />
       <img src="https://skillicons.dev/icons?i=vscode" />
       <img src="https://skillicons.dev/icons?i=figma" />
@@ -26,12 +23,6 @@
       <img src="https://skillicons.dev/icons?i=ai" />
       <img src="https://skillicons.dev/icons?i=js" />
       <img src="https://skillicons.dev/icons?i=react" />
-  </tr>
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=swift" />
-      <img src="https://skillicons.dev/icons?i=firebase" />
-    </td>
   </tr>
 </table>
 
