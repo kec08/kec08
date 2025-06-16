@@ -12,6 +12,8 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+---
+
 ## 🧠 Skills
 
 <table>
@@ -29,12 +31,6 @@
 </table>
 
 <br/>
-
----
-
-## 📖 Most used language
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kec08&theme=highcontrast&count_private=true&hide_border=true&card_width=495&line_height=20)
 
 ---
 
