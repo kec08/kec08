@@ -34,11 +34,5 @@
 
 ---
 
-## Baekjoon Solved rank
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kec4489)](https://solved.ac/kec4489/)
-
----
-
 ![snake animation](https://kec08.github.io/kec08/github-contribution-grid-snake-dark.svg)
 </div>
