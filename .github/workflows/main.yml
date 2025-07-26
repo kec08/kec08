@@ -1,0 +1,29 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN2 }}
+          USERNAME: kec08
+
+      - name: Commit & Push
+        env:
+          TOKEN: ${{ secrets.GH_TOKEN2 }}
+        run: |
+          git config user.name "kec08"
+          git config user.email "kec4489@naver.com"
+          git remote set-url origin https://kec08:${TOKEN}@github.com/kec08/kec08.git
+          git add -A
+          git commit -m "generated" || echo "nothing to commit"
+          git push origin HEAD
