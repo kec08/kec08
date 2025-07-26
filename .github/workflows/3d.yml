@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule:
+    - cron: "0 14 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,12 +17,12 @@ jobs:
 
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN2 }}
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN2 }}
         run: |
           git config user.name kec08
           git config user.email kec4489@naver.com
