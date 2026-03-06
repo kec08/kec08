@@ -5,25 +5,26 @@ on:
     - cron: "0 14 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN2 }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: kec08
 
       - name: Commit & Push
-        env:
-          TOKEN: ${{ secrets.GH_TOKEN2 }}
         run: |
-          git config user.name "kec08"
-          git config user.email "kec4489@naver.com"
-          git remote set-url origin https://kec08:${TOKEN}@github.com/kec08/kec08.git
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add -A
           git commit -m "generated" || echo "nothing to commit"
-          git push origin HEAD
+          git push
