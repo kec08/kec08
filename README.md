@@ -19,7 +19,6 @@
 <table>
   <tr>
       <img src="https://skillicons.dev/icons?i=swift" />
-    <img src="https://skillicons.dev/icons?i=firebase" />
       <img src="https://skillicons.dev/icons?i=github" />
       <img src="https://skillicons.dev/icons?i=vscode" />
       <img src="https://skillicons.dev/icons?i=figma" />
